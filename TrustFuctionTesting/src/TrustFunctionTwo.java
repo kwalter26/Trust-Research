@@ -1,9 +1,17 @@
-import java.text.DecimalFormat;
 
+
+
+/**
+ * @author Kyle Walter
+ * Project: TrustFuctionTesting
+ * Data Created: Nov 21, 2014
+ */
 public class TrustFunctionTwo {
 
 	private double[][] testTable = null;
 	private double alpha, beta, epsilon, kappa, nu, theta;
+	
+	@SuppressWarnings("unused")
 	private int ROW, COL;
 
 	public TrustFunctionTwo(double[][] table, double a, double b, double e,

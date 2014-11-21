@@ -1,11 +1,15 @@
-import java.text.DecimalFormat;
 
-import javax.swing.text.html.HTMLDocument.HTMLReader.SpecialAction;
-
+/**
+ * @author Kyle Walter
+ * Project: TrustFuctionTesting
+ * Data Created: Nov 21, 2014
+ */
 public class TrustFunctionThree {
 
 	private double[][] testTable = null;
 	private double alpha, beta, epsilon, kappa, nu, theta;
+	
+	@SuppressWarnings("unused")
 	private int ROW, COL;
 	private double[] socialComparison;
 

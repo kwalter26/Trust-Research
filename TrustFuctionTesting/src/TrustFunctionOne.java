@@ -1,5 +1,9 @@
-import java.text.DecimalFormat;
 
+/**
+ * @author Kyle Walter
+ * Project: TrustFuctionTesting
+ * Data Created: Nov 21, 2014
+ */
 public class TrustFunctionOne {
 	private double testTable[][];
 	private double alpha;

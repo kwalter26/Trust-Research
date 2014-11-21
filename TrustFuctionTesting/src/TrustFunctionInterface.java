@@ -1,3 +1,9 @@
+
+/**
+ * @author Kyle Walter
+ * Project: TrustFuctionTesting
+ * Data Created: Nov 21, 2014
+ */
 public interface TrustFunctionInterface {
 	public void run();
 

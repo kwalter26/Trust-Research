@@ -1,8 +1,12 @@
-import java.text.DecimalFormat;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 
+/**
+ * @author Kyle Walter
+ * Project: TrustFuctionTesting
+ * Data Created: Nov 21, 2014
+ */
 public class TestStuff {
 
 	public static void main(String[] args) {
